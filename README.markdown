@@ -4,6 +4,10 @@
 
 AlcatrazApp is simply a standalone container app for Alcatraz. It loads Alcatraz just like Xcode without checking `DVTPlugInCompatibilityUUIDs`. So you can still manage your plugins without openning Xcode. sometimes It's really helpful.
 
+### Screenshot
+
+![AlcatrazApp](doc/screenshot.png)
+
 ### Note
 
 This repo is only for hosting releases. the code is [here](https://github.com/hewigovens/Alcatraz/tree/standalone-app).
