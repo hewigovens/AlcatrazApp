@@ -1,0 +1,6 @@
+{
+  "name": "AlcatrazApp",
+  "tagline": "",
+  "body": "### Introducing AlcatrazApp\r\n\r\n[Alcatraz](http://alcatraz.io) is the Package manager for Xcode. Its self is originally designed as a Xcode plugin. But when Apple releases new version of Xcode which `DVTPlugInCompatibilityUUIDs` maybe also changed to some new value. It then causes all Xcode plugins - even Alcatraz - can not be loaded and this issue was been discussed [long long ago](https://github.com/alcatraz/Alcatraz/issues/73).\r\n\r\nAlcatrazApp is simply a standalone container app for Alcatraz. It loads Alcatraz just like Xcode without checking `DVTPlugInCompatibilityUUIDs`. So you can still manage your plugins without openning Xcode. sometimes It's really helpful.\r\n\r\n### Downloads\r\n\r\nDownload [latest verison](https://github.com/hewigovens/AlcatrazApp/releases/tag/1.0).\r\n\r\n### Screenshot\r\n\r\n![AlcatrazApp](doc/screenshot.png)\r\n\r\n### Note\r\n\r\nThis repo is only for hosting releases. the code is [here](https://github.com/hewigovens/Alcatraz/tree/standalone-app).\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
